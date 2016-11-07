@@ -5,4 +5,6 @@
     <string name="agregar">Agregar</string>
     <string name="modificar">Modificar</string>
     <string name="eliminar">Eliminar</string>
+    <string name="action_settings">action settings</string>
+    <string name="guardar">Guardar</string>
 </resources>
